@@ -1,0 +1,15 @@
+||graph.oculus.com^
+||graph.facebook.com^
+||analytics.facebook.com^
+||connect.facebook.net^
+||edge-mqtt.facebook.com^
+||mqtt-mini.facebook.com^
+||logging.facebook.com^
+||b-graph.facebook.com^
+||upload.facebook.com^
+||rupload.facebook.com^
+||realitylabs-graph.facebook.com^
+||beacons.gvt2.com^
+||beacons.gcp.gvt2.com^
+||beacons5.gvt2.com^
+||shortwave.facebook.com^
