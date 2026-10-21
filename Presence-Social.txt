@@ -1,0 +1,5 @@
+||presence.oculus.com^
+||social.oculus.com^
+||api.facebook.com^
+||portal.fb.com^
+||horizon.meta.com^
