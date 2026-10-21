@@ -1,0 +1,4 @@
+||video.oculus.com^
+||media.oculuscdn.com^
+||lookaside.facebook.com^
+||lookaside.fbsbx.com^
